@@ -1,0 +1,12 @@
+autom4te.cache/
+config.status
+Makefile
+*~
+pmapp
+<<<<<<< HEAD
+log/
+run/
+*.log
+=======
+pmpublic
+>>>>>>> ec4d42155318c66a2f37eab0e8297038b33d26d5
